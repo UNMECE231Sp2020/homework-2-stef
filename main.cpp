@@ -1,4 +1,5 @@
 #include <iostream>
+#include "Declarations.hpp"
 
 int main() {
 	Complex c1;
